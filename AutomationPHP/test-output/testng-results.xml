@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42898" started-at="2019-10-31T06:32:11Z" finished-at="2019-10-31T06:32:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42898" started-at="2019-10-31T06:32:11Z" finished-at="2019-10-31T06:32:53Z">
+      <class name="net.AutomationPHP.AutomationPHP.Hotel_Search">
+        <test-method status="PASS" signature="HotelSearch()[pri:0, instance:net.AutomationPHP.AutomationPHP.Hotel_Search@7cd62f43]" name="HotelSearch" duration-ms="42862" started-at="2019-10-31T12:02:11Z" finished-at="2019-10-31T12:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelSearch -->
+      </class> <!-- net.AutomationPHP.AutomationPHP.Hotel_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
